@@ -1,7 +1,0 @@
-My name is Tetiana
-
-<<<<<<< HEAD
-My birthday 11.02.1996
-=======
-My lastname is Kravets
->>>>>>> 4f5a0b54e3602e2188a5231381519a8f138d38b3
